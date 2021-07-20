@@ -1,6 +1,6 @@
 # App-App
 
-An app created to manage college applications.
+A Java app created to manage college applications.
 
 Allows the user to:
  - build a college and scholarship list,
