@@ -1,4 +1,4 @@
-# App-App
+# app-app
 
 A Java app created to manage college applications.
 
